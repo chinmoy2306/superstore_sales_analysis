@@ -2,7 +2,7 @@
 ## Overview
 This repository contains a Superstore Sales Dashboard developed using Power BI. The dashboard provides insights and visualizations based on a dataset obtained from Datahub.io.
 ## Dataset
-The dataset used for this project is sourced from Datahub.io and consists of three tables: -- 
+The dataset used for this project is sourced from Datahub.io and consists of three tables: -
 -	sales
 -	product
 -	customer
