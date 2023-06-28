@@ -17,10 +17,10 @@ Please refer to the Datahub.io dataset for more details and specific information
 This repository is structured as follows:
 -	Readme file: README.md
 -	Raw dataset file:
-	- sales.csv
-	- product.csv
-	- customer.csv
--	superstore_dashboard.pbix:
+	- [sales.csv](https://github.com/chinmoy2306/superstore_sales_analysis/blob/2e6bef7ebb99b246a424dc0c50b69ba9760ef92d/sales.csv)
+	- [product.csv](https://github.com/chinmoy2306/superstore_sales_analysis/blob/2e6bef7ebb99b246a424dc0c50b69ba9760ef92d/product.csv)
+	- [customer.csv](https://github.com/chinmoy2306/superstore_sales_analysis/blob/2e6bef7ebb99b246a424dc0c50b69ba9760ef92d/customer.csv)
+-	[superstore_dashboard.pbix](https://github.com/chinmoy2306/superstore_sales_analysis/blob/2e6bef7ebb99b246a424dc0c50b69ba9760ef92d/superstore_dashboard.pbix):
 	- This power bi file contains the dashboard comprising of various visualizations performed on the dataset.
 	- Feel free to explore the superstore_dashboard.pbix file to view the specific visualizations used in this analysis.
 ## Dashboard Components
