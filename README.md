@@ -31,6 +31,8 @@ The Superstore Sales Dashboard includes the following components:
 -	Total Sales Pareto Chart: Visualizes the total sales by the sub-categories of products, allowing for the identification of high-impact sub-categories.
 -	Sales by Segment and Region: Analyses the total sales by product segment and geographical region, providing insights into the sales distribution across different segments and regions.
 -	Geographic Sales Distribution: Displays the total sales by geographical location on a map chart, enabling the identification of sales hotspots and regional performance.
+## Screenshots
+![image](https://github.com/chinmoy2306/superstore_sales_analysis/blob/276d8748de69eb0fcaba72d5ae61a61d3391d96e/Screenshot.jpg)
 ## Usage
 To explore the Superstore Sales Dashboard:
 1.	Clone the repository: git clone https://github.com/chinmoy2306/superstore_sales_analysis.git
