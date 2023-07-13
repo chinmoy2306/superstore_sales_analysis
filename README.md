@@ -32,7 +32,7 @@ The Superstore Sales Dashboard includes the following components:
 -	Sales by Segment and Region: Analyses the total sales by product segment and geographical region, providing insights into the sales distribution across different segments and regions.
 -	Geographic Sales Distribution: Displays the total sales by geographical location on a map chart, enabling the identification of sales hotspots and regional performance.
 ## Screenshots
-![image](https://github.com/chinmoy2306/superstore_sales_analysis/blob/2e998729d7d9f8d5024f9410ea8f1f3ab70ae8d6/Screenshot.jpg)
+![](https://github.com/chinmoy2306/superstore_sales_analysis/blob/main/Screenshot.jpg)
 ## Usage
 To explore the Superstore Sales Dashboard:
 1.	Clone the repository: git clone https://github.com/chinmoy2306/superstore_sales_analysis.git
