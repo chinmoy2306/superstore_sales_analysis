@@ -1,6 +1,8 @@
 # Superstore Sales Dashboard
 ## Overview
 This repository contains a Superstore Sales Dashboard developed using Power BI. The dashboard provides insights and visualizations based on a dataset obtained from Datahub.io.
+## Screenshots
+![](https://github.com/chinmoy2306/superstore_sales_analysis/blob/main/Screenshot.jpg)
 ## Dataset
 The dataset used for this project is sourced from Datahub.io and consists of three tables: -
 -	sales
@@ -31,23 +33,3 @@ The Superstore Sales Dashboard includes the following components:
 -	Total Sales Pareto Chart: Visualizes the total sales by the sub-categories of products, allowing for the identification of high-impact sub-categories.
 -	Sales by Segment and Region: Analyses the total sales by product segment and geographical region, providing insights into the sales distribution across different segments and regions.
 -	Geographic Sales Distribution: Displays the total sales by geographical location on a map chart, enabling the identification of sales hotspots and regional performance.
-## Screenshots
-![](https://github.com/chinmoy2306/superstore_sales_analysis/blob/main/Screenshot.jpg)
-## Usage
-To explore the Superstore Sales Dashboard:
-1.	Clone the repository: git clone https://github.com/chinmoy2306/superstore_sales_analysis.git
-2.	Open Power BI Desktop or Power BI Online.
-3.	Import the dataset files (sales_table.csv, product_table.csv, customer_table.csv) located in the repository.
-4.	Open the Power BI project file (superstore_sales_dashboard.pbix) located in the repository.
-5.	In Power BI, refresh the data connection to ensure the dashboard is using the latest dataset.
-6.	Interact with the different dashboard components to gain insights into the Superstore sales data.
-7.	Customize the dashboard as per your requirements by modifying the visuals, adding new insights, or connecting additional data sources.
-## Dependencies
-To work with the Superstore Sales Dashboard, you will need the following:
--	Power BI Desktop or Power BI Online: The dashboard was designed using Power BI and requires Power BI Desktop or Power BI Online to explore the visuals and interact with the data.
--	Dataset: Obtain the dataset files (sales_table.csv, product_table.csv, customer_table.csv) located in the repository and import them into Power BI.
--	Please ensure that you have the appropriate software and dataset available before using the dashboard.
-## License
-The dataset used in this project is sourced from Datahub.io and is subject to the licensing terms provided by the dataset author. Please refer to the Datahub.io dataset documentation for more information on licensing and usage restrictions.
-## Acknowledgments
-Special thanks to Datahub.io for providing the Superstore sales dataset, enabling us to create this analytics dashboard. We appreciate their efforts in collecting and sharing the data for analysis.
